@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://ss.sport-express.ru/userfiles/materials/192/1920124/volga.jpg" alt="Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/drebedenboi/images/f/fd/Main-skreen.jpg/revision/latest?cb=20180627043654&path-prefix=ru" width="100%">
+</p>
 <!--
 **mubik908/mubik908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
