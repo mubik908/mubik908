@@ -1,4 +1,4 @@
-## Hi there 👋
+## Я бедный студент 👋
 <p align="center">
   <img src="https://ss.sport-express.ru/userfiles/materials/192/1920124/volga.jpg" alt="Banner" width="100%">
 </p>
