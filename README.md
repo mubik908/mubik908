@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Profile%20views&color=FF6B35&style=flat" alt="views" />
+  
   <img src="https://img.shields.io/badge/MMR-3000+-orange?style=flat&logo=dota2" />
   <img src="https://img.shields.io/badge/Курс-2-blue?style=flat" />
 </p>
