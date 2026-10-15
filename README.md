@@ -20,5 +20,5 @@ hobbies:
   - Dota 2 🎮
   - Программирование 💻
   - Игры 🕹️
-currently_learning: [Python, C++, Web]
+currently_learning: [Python, C#, Web]
 fun_fact: "Фармлю крипов быстрее, чем пишу код"
